@@ -63,7 +63,6 @@ Classic references used while building this project:
 - [Docker official documentation](https://docs.docker.com/)
 - [Docker Compose reference](https://docs.docker.com/compose/compose-file/)
 - [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-- [About the PID 1 problem](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/)
 - [NGINX `ssl_protocols` directive](https://nginx.org/en/docs/http/ngx_http_ssl_module.html)
 - [WP-CLI handbook](https://make.wordpress.org/cli/handbook/)
 - [MariaDB server documentation](https://mariadb.com/kb/en/documentation/)
